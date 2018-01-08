@@ -1,4 +1,4 @@
-meCoin
+Welcome to meCoin! We're glad that you decided to join us in this exciting adventure.
 -------------------------
 So, to start off. Download your chosen packages, if you're on windows, you're looking for the .zip and .exe files. If you want the wallet client alone, to store, transact and stake your meCoins. Download the "barebones" client. Open it up and you're already set, your wallet will sync without the need of a .conf due to hardcoded node support.
 
